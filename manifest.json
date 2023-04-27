@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§b§5§lUntravel§eMx§b Server Resources",
+    "description": "A utility to fight against malicious hackers on Bedrock Edition ~ v3.0.4",
+    "uuid": "173262f4-8aa2-4c48-aec6-71721a0702bb",
+    "version": [3, 0, 4],
+    "min_engine_version": [1, 19, 0]
+  },
+  "metadata": {
+    "authors": ["MrDiamond64, Visual1mpact, KlarixMx"],
+    "license": "GPLv3",
+    "url": "https://github.com/Visual1mpact/Paradox_AntiCheat"
+  },
+  "modules": [
+    {
+      "description": "Untravel MX aDDON V3",
+      "type": "resources",
+      "uuid": "57ca1300-5d64-4148-8864-c451bcdafae0",
+      "version": [1, 0, 0]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "mx",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "wand": {
+      "textures": "textures/items/wand"
+    },
+    "barriergray": {
+      "textures": "textures/items/barriergray"
+    }
+  }
+}
