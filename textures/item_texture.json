@@ -7,6 +7,21 @@
     },
     "barriergray": {
       "textures": "textures/items/barriergray"
+    },
+    "bow_pulling_2": {
+      "textures": "textures/items/bow_pulling_2"
+    },
+    "worldicon": {
+      "textures": "textures/items/worldsIcon"
+    },
+    "upload": {
+      "textures": "textures/items/upload"
+    },
+    "attack": {
+      "textures": "textures/items/attack"
+    },
+    "empty_marco": {
+      "textures": "textures/items/item_border"
     }
   }
 }
